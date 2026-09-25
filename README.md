@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Building AI-powered SaaS, Microservices & Cloud Native Systems 🤖 Interested in AI/ML, LLM Applications, RAG and Intelligent Automation ⛓️ Exploring Blockchain, Smart Contracts & Decentralized Applications ☁️ Passionate about DevOps, Kubernetes and Infrastructure Automation 🎓 Software Engineering Student @ Duy Tan University ⚡ Turning ideas into production-ready products
+# About Me:
+Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/ML, LLM Applications, RAG and Intelligent Automation Exploring Blockchain, Smart Contracts & Decentralized Applications  Passionate about DevOps, Kubernetes and Infrastructure Automation Software Engineering Student Duy Tan University Turning ideas into production-ready products
 
 
 ## 🌐 Socials:
