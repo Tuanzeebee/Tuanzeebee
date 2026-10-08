@@ -7,7 +7,7 @@ Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/
 
 # 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat\&logo=typescript\&logoColor=white)
@@ -22,14 +22,14 @@ Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat\&logo=solidity\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
 
-### 🌐 Frontend & Web
+### Frontend & Web
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat\&logo=.net\&logoColor=white)
 
-### ⚙️ Backend & API
+### Backend & API
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat\&logo=fastapi)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat\&logo=nestjs\&logoColor=white)
@@ -37,7 +37,7 @@ Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat\&logo=apache\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat\&logo=rabbitmq\&logoColor=white)
 
-### 🗄️ Databases & ORM
+### Databases & ORM
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
@@ -47,7 +47,7 @@ Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat\&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat\&logo=Prisma\&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat\&logo=PyTorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat\&logo=TensorFlow\&logoColor=white)
@@ -57,35 +57,35 @@ Building AI-powered SaaS, Microservices & Cloud Native Systems Interested in AI/
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
 
-### ⛓️ Web3 & Blockchain
+### Web3 & Blockchain
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat\&logo=solidity\&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat\&logo=web3.js\&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat\&logo=amazon-aws\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=Cloudflare\&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat\&logo=digitalOcean\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat\&logo=netlify\&logoColor=#00C7B7)
 
-### 🛠️ Development & Testing Tools
+### Development & Testing Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat\&logo=selenium\&logoColor=white)
 
-### 🎨 Design & UI/UX
+### Design & UI/UX
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat\&logo=figma\&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tuanzeebee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Tuanzeebee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tuanzeebee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tuanzeebee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
